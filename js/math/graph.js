@@ -1,5 +1,5 @@
 class Graph {
-  constructor(points = [], segmants = []) {
+  constructor(points = [], segments = []) {
     this.points = points;
     this.segments = segments;
   }
